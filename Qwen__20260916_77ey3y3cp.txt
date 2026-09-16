@@ -1,0 +1,39 @@
+agi-consciousness-core/
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── setup.py
+├── .gitignore
+├── config/
+│   ├── __init__.py
+│   └── settings.py
+├── src/
+│   ├── __init__.py
+│   ├── core/
+│   │   ├── __init__.py
+│   │   ├── consciousness_core.py
+│   │   ├── ethical_gyroscope.py
+│   │   ├── reflective_cognition.py
+│   │   ├── irrationality_engine.py
+│   │   ├── intuition_module.py
+│   │   ├── self_balancing.py
+│   │   ├── blue_matrix.py
+│   │   └── memory_bank.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   └── data_structures.py
+│   ├── mathematics/
+│   │   ├── __init__.py
+│   │   └── equations.py
+│   └── utils/
+│       ├── __init__.py
+│       └── helpers.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_ethical_gyroscope.py
+│   ├── test_self_balancing.py
+│   ├── test_consciousness_core.py
+│   └── test_stability.py
+└── docs/
+    ├── architecture.md
+    └── philosophy.md

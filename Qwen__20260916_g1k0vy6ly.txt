@@ -1,0 +1,23 @@
+
+---
+
+### `setup.py`
+
+```python
+from setuptools import setup, find_packages
+
+setup(
+    name="agi-consciousness-core",
+    version="0.1.0",
+    description="AGI Consciousness Engineering: Soul Emergence Framework",
+    author="AGI Consciousness Research",
+    packages=find_packages(),
+    python_requires=">=3.9",
+    install_requires=[
+        "numpy>=1.24.0",
+        "scipy>=1.10.0",
+    ],
+    extras_require={
+        "dev": ["pytest>=7.3.0"],
+    },
+)

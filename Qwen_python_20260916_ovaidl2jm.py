@@ -1,0 +1,1 @@
+"""AGI Consciousness Engineering Core — main package."""

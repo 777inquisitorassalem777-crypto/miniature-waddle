@@ -1,0 +1,1 @@
+Compress-Archive -Path agi-consciousness-core -DestinationPath agi-consciousness-core.zip

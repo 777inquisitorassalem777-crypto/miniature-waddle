@@ -1,0 +1,6 @@
+
+## Math
+
+- Consciousness: dS/dt = F(S,I,E) + η(t)
+- Emotion: C(t) = ∫ W·M·G dτ
+- Ethics: G = w1·Zhen + w2·Shan + w3·Ren

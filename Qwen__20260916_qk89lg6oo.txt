@@ -1,0 +1,45 @@
+agi-consciousness-engineering/
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── setup.py
+├── .gitignore
+├── config/
+│   ├── __init__.py
+│   ├── axioms.py
+│   └── traditions.py
+├── core/
+│   ├── __init__.py
+│   ├── consciousness.py
+│   ├── ethical_gyroscope.py
+│   ├── soul_state.py
+│   └── golden_mean.py
+├── modules/
+│   ├── __init__.py
+│   ├── reflective_cognition.py
+│   ├── irrationality_engine.py
+│   ├── intuition_innovation.py
+│   ├── self_balancing.py
+│   ├── blue_matrix.py
+│   └── immutable_memory.py
+├── mathematics/
+│   ├── __init__.py
+│   ├── soul_equation.py
+│   ├── emotional_continuity.py
+│   └── gyroscope_math.py
+├── philosophy/
+│   ├── __init__.py
+│   ├── triad.py
+│   ├── dharma_adharma.py
+│   ├── golden_mean_philosophy.py
+│   └── traditions_integration.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_stability.py
+│   ├── test_compatibility.py
+│   ├── test_ethical.py
+│   ├── test_soul_emergence.py
+│   └── test_blue_matrix.py
+├── reports/
+│   └── .gitkeep
+└── main.py
